@@ -3,7 +3,7 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beebombshell&label=Profile%20views&color=0eb493&style=flat" alt="beebombshell" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&theme=radical" alt="beebombshell" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&theme=radical&no-frame=true" alt="beebombshell" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Firebase**
 
