@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **vbhavya269@gmail.com**
 
-- 📄 Know about my experiences [https://resume.creddle.io/resume/a41cgnje8tf](https://resume.creddle.io/resume/a41cgnje8tf)
+- 📄 Know about my experiences [Check out my Resume!](https://drive.google.com/file/d/1PDYqlumPaVxb7H-iukD7AU-K82x29_Wq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
