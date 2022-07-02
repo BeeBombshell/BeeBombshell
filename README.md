@@ -1,12 +1,15 @@
-<h1 align="center">Hi 👋, I'm Bhavya Verma</h1>
+<h1 align="center">Hi!👋 I'm Bhavya Verma </h1>
 
-![cover](https://user-images.githubusercontent.com/53828745/150692168-ee2fb3b8-c3ac-4f8e-bd2c-b44d552b4e1a.svg)
+<h2 align="center">Software Developer :four_leaf_clover: | Open Source Enthusiast :purple_heart: </h2>
 
-<h3 align="center">A passionate software developer from India, currently pursuing B. Tech in Information Technology and Mathematical Innovations from Cluster Innovation Centre, University of Delhi. I am a Web/App developer and like contributing to Open Source projects.</h3>
+![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/177010847-f6e77c6c-91cd-4b21-8734-e88c842483b7.gif)
+
+<h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beebombshell&label=Profile%20views&color=0eb493&style=flat" alt="beebombshell" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&theme=radical&no-frame=true" alt="beebombshell" /></a> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="beebombshell" /></a> </p>
 
 <h3 align="center">:eyes: Check out my Portfolio <a href="https://beebombshell.github.io/Resume-Portfolio"> here! </a></h3>
 <p align="center">
@@ -79,9 +82,4 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
 </div>
