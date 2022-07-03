@@ -30,6 +30,7 @@
 src="https://img.shields.io/twitter/follow/Bee_Bombshell?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=171717"
 /></a><a href="https://www.github.com/BeeBombshell" target="_blank" rel="noreferrer"><img align="right"
 src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
+<br />
 ### Skills
 
 <p align="left">
