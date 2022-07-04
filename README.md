@@ -18,7 +18,7 @@
 <br></br>
 
 * 🌍  I'm based in Delhi, India.
-* 🖥️  See my portfolio at [My Portfolio.](http://beebombshell.github.io/Resume-Portfolio)
+* 🖥️  See my portfolio at [My Portfolio](http://beebombshell.github.io/Resume-Portfolio).
 * ✉️  You can contact me at [vbhavya269@gmail.com](mailto:vbhavya269@gmail.com)
 * 🚀  I'm currently working on [MERN stack development.](http://github.com/BeeBombshell)
 * 🧠  I'm learning React, Node, and ExpressJS.
