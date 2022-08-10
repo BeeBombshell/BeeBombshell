@@ -23,7 +23,7 @@
 * 🚀  I'm currently working on [MERN stack development.](http://github.com/BeeBombshell)
 * 🧠  I'm learning React, Node, and ExpressJS.
 * 🤝  I'm open to collaborating on Open Source Projects.
-* ⚡  I'm a part-time Doodler! Checkout my artwork at my [<img width="20" height="20" src="https://user-images.githubusercontent.com/53828745/177042086-cf66a8f2-b742-49e5-834a-b0c3960d1760.png"></img>](https://pin.it/2TCj8EL) 
+* ⚡  I'm a part-time Doodler! Checkout my artwork at my [<img width="20" height="20" src="https://user-images.githubusercontent.com/53828745/177042086-cf66a8f2-b742-49e5-834a-b0c3960d1760.png"></img>](https://pin.it/26t33v8) 
 
 
 <a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img align="right"
