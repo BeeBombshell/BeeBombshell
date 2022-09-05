@@ -3,7 +3,6 @@
 <h2 align="center">Software Developer :four_leaf_clover: | Open Source Enthusiast :purple_heart: </h2>
 
 ![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/188475383-c656ef97-8c3d-4a53-8520-c3b15cac4a7a.gif)
-7c6c-91cd-4b21-8734-e88c842483b7.gif)
 
 <h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
 
