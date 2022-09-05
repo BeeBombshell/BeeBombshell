@@ -2,7 +2,8 @@
 
 <h2 align="center">Software Developer :four_leaf_clover: | Open Source Enthusiast :purple_heart: </h2>
 
-![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/177010847-f6e77c6c-91cd-4b21-8734-e88c842483b7.gif)
+![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/188475383-c656ef97-8c3d-4a53-8520-c3b15cac4a7a.gif)
+7c6c-91cd-4b21-8734-e88c842483b7.gif)
 
 <h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
 
@@ -79,7 +80,7 @@ src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
+    <img src="https://cultofthepartyparrot.com/parrots/pizzaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
