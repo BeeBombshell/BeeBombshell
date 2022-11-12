@@ -4,7 +4,7 @@
 
 ![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/188475383-c656ef97-8c3d-4a53-8520-c3b15cac4a7a.gif)
 
-<h3 align="center">I'm a passionate software developer from India. Junior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
+<h3 align="center">I'm a passionate software developer from India. Senior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beebombshell&label=Profile%20views&color=0eb493&style=flat" alt="beebombshell" /> </p>
 
