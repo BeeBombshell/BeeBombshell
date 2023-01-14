@@ -11,7 +11,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="beebombshell" /></a> </p>
 
-<h3 align="center">:eyes: Click <a href="https://drive.google.com/file/d/1PDYqlumPaVxb7H-iukD7AU-K82x29_Wq/view?usp=sharing">here</a> to check out my Resume!</h3>
+<h3 align="center">:eyes: Click <a href="https://drive.google.com/file/d/1z2d-w_f_f2VCcJpJGIULQt8HYVRLMzyf/view?usp=sharing">here</a> to check out my Resume!</h3>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/53828745/177041668-8a4afe88-2ac7-460b-af08-1f4c5584d404.png" width=250 height=250>
 </p>
