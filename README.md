@@ -91,30 +91,4 @@ src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-
 
 <a href="https://github.com/BeeBombshell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beebombshell&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="beebombshell" /></a>
 
-
-<div align="center">
-    <img src="https://cultofthepartyparrot.com/guests/hd/nyanparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/partyowl.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/trollparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygopher.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyblobcat.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partyfsjal.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/witnessprotectionparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/parrotpoop.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/dogeparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygeeko.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partywumpus.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/vibepartycat.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/discoduck.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/party-wizard.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/congadoge.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partysloth.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/thisisfineparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partymoogle.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/thegrokeparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/party-k8s.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/guests/hd/partygfm.gif" width="30" height="30"/>
-</div>
+![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif)
