@@ -9,10 +9,19 @@
 
 <h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
 
-#### Location📍: Delhi, India
-#### Work 👩‍💻: Software Engineer @ [Rowy](www.rowy.io) [Remote 🏡]
-#### Skills 👀: Full-stack Developer [MERN Stack]
-#### Hobby 🎨: Being Creative (*Check out my Pinterest! 😉*)
+- **Location📍:** Delhi, India
+
+- **Work 👩‍💻:** Software Engineer @ [Rowy](www.rowy.io) [Remote 🏡]
+
+- **Skills 👀:** Full-stack Developer [MERN Stack]
+
+- **Hobby 🎨:** Being Creative (*Check out my Pinterest! 😉*)
+
+- **Learnings 📚:** Getting hands on DevOps 💪 | Exploring new frameworks ✨ | No plans to stop 🎯
+
+- **2023 Plans:** Volunteering for a cause 🫶 | Blogging technical content and my experiences! 🤓
+
+### Love collabs, open source contributions, and community culture! 💜
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="beebombshell" /></a> </p>
