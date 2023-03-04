@@ -11,34 +11,19 @@
 
 - **Location📍:** Delhi, India
 
-- **Work 👩‍💻:** Software Engineer @ [Rowy](www.rowy.io) [Remote 🏡]
+- **Work 👩‍💻:** Software Engineer @ [Rowy](www.rowy.io) (`Remote` 🏡)
 
-- **Skills 👀:** Full-stack Developer [MERN Stack]
+- **Skills 👀:** Full-stack Developer (`MERN Stack`)
 
 - **Hobby 🎨:** Being Creative (*Check out my Pinterest! 😉*)
 
 - **Learnings 📚:** Getting hands on DevOps 💪 | Exploring new frameworks ✨ | No plans to stop 🎯
 
-- **2023 Plans:** Volunteering for a cause 🫶 | Blogging technical content and my experiences! 🤓
+- **2023 Plans:** Volunteering for a cause 🎖️ | Blogging technical content and my experiences! 🤓
 
 ### Love collabs, open source contributions, and community culture! 💜
 
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="beebombshell" /></a> </p>
-
-<h3 align="center">:eyes: Click <a href="https://drive.google.com/file/d/1z2d-w_f_f2VCcJpJGIULQt8HYVRLMzyf/view?usp=sharing">here</a> to check out my Resume!</h3>
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/53828745/177041668-8a4afe88-2ac7-460b-af08-1f4c5584d404.png" width=250 height=250>
-</p>
-<br></br>
-
-* 🌍  I'm based in Delhi, India.
-* 🖥️  See my portfolio at [My Portfolio](http://beebombshell.github.io/Resume-Portfolio).
-* ✉️  You can contact me at [vbhavya269@gmail.com](mailto:vbhavya269@gmail.com)
-* 🚀  I'm currently working on [MERN stack development.](http://github.com/BeeBombshell)
-* 🧠  I'm learning React, Node, and ExpressJS.
-* 🤝  I'm open to collaborating on Open Source Projects.
-* ⚡  I'm a part-time Doodler! Checkout my artwork at my [<img width="20" height="20" src="https://user-images.githubusercontent.com/53828745/177042086-cf66a8f2-b742-49e5-834a-b0c3960d1760.png"></img>](https://pin.it/26t33v8) 
 
 
 <a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img align="right"
@@ -46,7 +31,28 @@ src="https://img.shields.io/twitter/follow/Bee_Bombshell?logo=twitter&style=for-
 /></a><a href="https://www.github.com/BeeBombshell" target="_blank" rel="noreferrer"><img align="right"
 src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-the-badge&color=14b8a6&labelColor=171717" /></a>
 <br />
-### Skills
+
+## My Socials and Portfolio
+
+<p align="center">
+<a href="mailto:vbhavya269@gmail.com" target="blank"><img src="https://user-images.githubusercontent.com/53828745/222914795-19c83c5e-1aa4-479d-8a81-221ff89e1025.png" alt="@beebombshell" height="32" width="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.com/users/697136336582344786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.github.com/BeeBombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.linkedin.com/in/BeeBombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;    
+<a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18050532/bhavya-verma" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18050532/bhavya-verma" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://hashnode.com/@beebombshell" target="blank" el="noreferrer"><img src="https://user-images.githubusercontent.com/53828745/222914630-00bdbe06-abc7-4363-b4a7-f8922cc3ee00.png" alt="@beebombshell" height="32" width="32" /></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+## My Skills
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -70,11 +76,7 @@ src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
-
-### Socials
-
-<p align="left"> <a href="https://www.dev.to/beebombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://discord.com/users/697136336582344786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/BeeBombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/BeeBombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>             
+</p>             
 
 <b>My GitHub Stats</b>
 
