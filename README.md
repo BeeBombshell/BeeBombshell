@@ -1,12 +1,18 @@
-<h1 align="center">Hi!👋 I'm Bhavya Verma </h1>
+<h1 align="center">Hey there! 👋 I'm Bhavya Verma</h1>
 
-<h2 align="center">Software Developer :four_leaf_clover: | Open Source Enthusiast :purple_heart: </h2>
+<h2 align="center">Software Engineer 👩‍💻 | Open Source Enthusiast 💜 | Love to create 🎨 </h2>
 
-![You Attract What You Vibrate](https://user-images.githubusercontent.com/53828745/188475383-c656ef97-8c3d-4a53-8520-c3b15cac4a7a.gif)
-
-<h3 align="center">I'm a passionate software developer from India. Senior @ CIC, DU pursuing B.Tech in IT and Mathematical Innovations. :dart: </h3>
+![BeeBombshell](https://user-images.githubusercontent.com/53828745/222882360-9ee89ebf-37e0-4fcb-8c65-7057f09f55f4.gif)
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beebombshell&label=Profile%20views&color=0eb493&style=flat" alt="beebombshell" /> </p>
+
+
+<h2 align="left">Some Bits 'Bout Me! 💁‍♀️</h3>
+
+#### Location📍: Delhi, India
+#### Work 👩‍💻: Software Engineer @ [Rowy](www.rowy.io) [Remote 🏡]
+#### Skills 👀: Full-stack Developer [MERN Stack]
+#### Hobby 🎨: Being Creative (*Check out my Pinterest! 😉*)
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=beebombshell&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&no-frame=true" alt="beebombshell" /></a> </p>
