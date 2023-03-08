@@ -86,9 +86,6 @@ src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-
 
 </div>
 
-<a href="http://www.github.com/BeeBombshell"><img src="https://activity-graph.herokuapp.com/graph?username=BeeBombshell&bg_color=171717&color=ffffff&line=14b8a6&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
 <a href="https://github.com/BeeBombshell" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=beebombshell&show_icons=true&theme=radical&title_color=a855f7&text_color=ffffff&icon_color=14b8a6&bg_color=171717&hide_border=true&locale=en&layout=compact&" alt="beebombshell" /></a>
 
 ![github footer](https://user-images.githubusercontent.com/53828745/222923708-ef3e64a6-3020-4845-98f4-1d3c415cb69a.gif)
