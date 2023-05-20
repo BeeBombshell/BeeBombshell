@@ -45,7 +45,7 @@ src="https://img.shields.io/github/followers/BeeBombshell?logo=github&style=for-
 &nbsp;&nbsp;&nbsp;&nbsp;    
 <a href="https://www.twitter.com/Bee_Bombshell" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18050532/bhavya-verma" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18050532/bhavya-verma" width="32" height="32" /></a>
+<a href="https://stackoverflow.com/users/18050532/bhavya-verma" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/18050532/bhavya-verma" width="32" height="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hashnode.com/@beebombshell" target="blank" el="noreferrer"><img src="https://user-images.githubusercontent.com/53828745/222914630-00bdbe06-abc7-4363-b4a7-f8922cc3ee00.png" alt="@beebombshell" height="32" width="32" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
