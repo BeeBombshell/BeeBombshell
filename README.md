@@ -1,14 +1,5 @@
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 20px;">
-    <h1>Hi, I'm Bhavya Verma! 👋</h1>
-    <p>Your friendly neighbourhood <b>Software Engineer</b>. Documenting my journey one commit at a time.</p>
-  </div>
-  <div style="flex: 50%; padding: 20px;">
-    <img src="./assets/bee_octocat.png" alt="BeeBombshell Octocat">
-  </div>
-</div>
+<img src="./assets/banner.svg">
 
-💡 Jack of all trades. Master of, well, a few!
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=beebombshell&label=Profile%20views&color=0eb493&style=flat" alt="beebombshell" /> </p>
 
 ### 🛠️ Tech Toolbox:
