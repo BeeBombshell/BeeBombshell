@@ -61,27 +61,18 @@ You’ll usually find me posting relatable dev memes, hyping people up, or chasi
 
 ### Highlights from X 🐦
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: center; gap: 8px;">
-<p align="center">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: center; gap: 8px; width: 100%">
 <a href="https://x.com/Bee_Bombshell/status/1680997123725340672">
-  <img src="assets/common-quest.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="500" />
+  <img src="assets/common-quest.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
 </a>
-</p>
-
-<p align="center">
 <a href="https://x.com/Bee_Bombshell/status/1699263661368627222">
-  <img src="assets/bugs-fixes.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="500" />
+  <img src="assets/bugs-fixes.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
 </a>
-</p>
-
-<p align="center">
 <a href="https://x.com/Bee_Bombshell/status/1707236213420405052">
-  <img src="assets/regex-meme.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="500" />
+  <img src="assets/regex-meme.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
 </a>
-</p>
 </div>
 
----
 
 ### You Made it to the End 🎉
 
