@@ -65,9 +65,6 @@ You’ll usually find me posting relatable dev memes, hyping people up, or chasi
 <a href="https://x.com/Bee_Bombshell/status/1680997123725340672">
   <img src="assets/common-quest.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
 </a>
-<a href="https://x.com/Bee_Bombshell/status/1699263661368627222">
-  <img src="assets/bugs-fixes.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
-</a>
 <a href="https://x.com/Bee_Bombshell/status/1707236213420405052">
   <img src="assets/regex-meme.png" alt="Tweet from @Bee_Bombshell about fixing bugs" width="300" />
 </a>
