@@ -1,4 +1,4 @@
-<img src="assets/banner.gif" alt="BeeBombshell Banner">
+<img src="assets/ascii-rest-aurora-fjord.gif" alt="BeeBombshell Banner">
 
 Hey, I’m Bhavya 👋  
 Product Engineer • Shipping Features & Memes in equal measure
